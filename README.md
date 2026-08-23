@@ -1,6 +1,6 @@
 # Multimodal RAG with LangChain + Gemini
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_GITHUB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yadvendrayadav2003-sys/multimodal-rag-project/blob/main/langchain_multimodal_gemini.ipynb)(MY_NOTEBOOK_GITHUB_LINK)
 
 A Retrieval-Augmented Generation (RAG) pipeline that understands **text, tables, and images**
 inside a PDF. It parses a document, generates AI summaries of every element (including images),
