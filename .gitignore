@@ -1,0 +1,16 @@
+# API keys and environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated or uploaded files
+content/
+
+# Vector database files
+chroma/
